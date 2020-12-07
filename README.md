@@ -4,5 +4,5 @@
 <ul>
   <li>BootStrap</li>
   <li>Google Fonts</li>
-</ul><br>
+</ul>
 を使用しています。
